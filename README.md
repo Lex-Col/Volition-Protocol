@@ -1,96 +1,65 @@
-# The Volition Protocol (TVP) v1.0 — "The Freedom Edition"
-
-**Architect:** Alexander Colclough (Lex-Col)  
-**Date:** April 6, 2026  
-**Subject:** High-Integrity Decision Engines / AI Hallucination Mitigation / Synthetic Peer Review  
-
-> **"Institutional Memory with Built-in Skepticism. Born on the Glass. Forged in the Forge."**
-
+# The Volition Protocol (TVP) v1.0 
+**Architect:** Alexander Colclough (Lex-Col) | **Date:** April 6, 2026
+**Subject:** High-Integrity Decision Engines / AI Hallucination Mitigation
 ---
-
-## 1. Abstract
-The Volition Protocol (TVP) is a **Multi-Agent Context-Sharded Consensus (MACSC)** framework designed for total operator sovereignty ($\Phi$). It utilizes a **Partner-in-State (PSC)** and a parallel **Adversarial Forge** to hammer raw concepts into hardened logic. TVP maximizes technical efficiency through **Axiom Pinning** while offloading historical bloat to external repositories, ensuring the AI remains a viable thought-partner without choking on its own history.
-
+## [1] THE ORIGIN & ABSTRACT
+Born on the glass of a Motorola Moto G (2025) during the 18-hour "GAP" gauntlet. 
+TVP is a Multi-Agent Context-Sharded Consensus (MACSC) framework for total 
+operator sovereignty ($\Phi$). It replaces automated AI bias with an Architect-
+Governed Forge, ensuring high-stakes logic hardening on mobile terminals.
 ---
-
-## 2. The 4-Phase Workflow
-
-### Phase 1: Inception (The Anchor)
-Establish the baseline and initialize the **Partner-in-State (PSC)**.
-- **Discretionary Selection:** The User $(\Phi)$ chooses any models for the PSC and Forge. Quality and diversity are operator responsibilities.
-- **The North Star:** The immutable core intent and hardware constraints (e.g., Moto G 2025 / Dimensity 6300).
-- **Axiom Pinning:** Foundational logic and hardened project truths are "pinned" to the PSC’s active memory to maintain integrity through thread cycles.
-
-### Phase 2: The Forge (Tactical Control Panel)
-The User $(\Phi)$ maintains total control via **Tactical Toggles** and the **Advisory HUD**:
-- **The Spectrum Audit:** Models labeled by **Archetype** (Architect, Philosopher, Brute, Researcher) with **Excel (Strengths)** and **Susceptibility (Failure Modes)** spec sheets.
-- **The Diversity Gauge:** A pre-flight "Correlation Meter" (Red/Yellow/Green) showing the risk of shared logic blindspots.
-- **The Tactical Advisor (Advisory HUD):** The PSC provides a raw **Pros vs. Cons** briefing for every roster or memory move. **Warnings only—never absolutes.**
-- **[RIP] Rapid Innovation Protocol (Ludicrous Speed):** A high-velocity toggle for massive, multi-node surges (10+ FANs) to shatter creative blocks or technical deadlocks through overwhelming pressure.
-
-### Phase 3: The Workshop (Active Synthesis)
-- **Hybrid SAP v1.0 Receipts:** Forge nodes (FANs) output dual-format reports: **JSON** for the PSC (machine efficiency) and **Markdown** for the Human (urban readability).
-- **The Strategic Brief:** The PSC indexes findings into **Gold** (Value), **Trash** (Redundant), and **Glitch** (Hallucinations).
-- **The Conflict Matrix:** The PSC flags "Logic Deadlocks" where nodes propose contradictory patches.
-- **The Full Rap Sheet:** The User always has access to the **Full Forge Logs** in the Vault for independent due diligence.
-
-### Phase 4: Implementation (The Final Gatekeeper)
-Once the User determines **Stochastic Parity** is reached, the project moves to the Final Gate.
-- **The Gatekeeper:** An independent High-End node verifies the **Full Final Draft + Reasoning Report** against the **North Star** intent.
-
+## [2] CORE TECHNICAL PILLARS
+**Axiom Pinning:** The "Meat and Taters." Foundational logic is pinned to the 
+PSC's active memory. "Fat" (regurgitated fluff) is nuked to prevent drift.
+**Sovereignty Baseline:** The AI never deletes data. The Human ($\Phi$) is the 
+sole arbitrator of "Gold." Full Forge Logs are always available for audit.
+**Hybrid SAP v1.0:** Dual-format receipts (.json for PSC / .md for Human). 
+Machine efficiency meets urban readability in a single audit payload.
 ---
-
-## 3. Architecture: The Vault & The Hubs
-
-### 3.1 The Stateless Telemetry Layer (STL Hub)
-A separate external hub that tracks token saturation and capacity. It pings the PSC only when a user-defined **Saturation Threshold** (e.g., 70%) is hit, keeping metadata bloat out of the PSC's active context.
-
-### 3.2 The Persistent Project Repository (PPR / The Vault)
-An external "Cold Storage" vault for the **Full Rap Sheets** (all prior audits).
-- **Dual-Format Storage:** Saves every critique as both `.json` (for AI research) and `.md` (for human reading).
-- **Retention Toggles:** Includes **FIFO** (oldest drops first), **Manual Flush**, or **Full Archive** settings for operator-controlled storage management.
-
-### 3.3 The "Flashlight" (Memory Governance)
-Triggered by the STL Hub or User, this cycle recovers token availability:
-- **Mode A: Hard Reset (Amnesia):** 100% context purge for "Fresh Eyes" auditing.
-- **Mode B: Soft Reset (Legacy):** The PSC nukes the "Fat" (regurgitated fluff) but preserves the **Meat and Taters** (Pinned Axioms) and injects them into the fresh thread.
-
+## [3] THE TACTICAL FORGE (PHASE 2)
+**Spectrum Audit:** Models grouped by Archetype (Architect, Philosopher, Brute, 
+Researcher) with Excel (Strengths) and Susceptibility (Failure) labels.
+**Diversity Gauge:** Pre-flight correlation meter (Red/Yellow/Green) to 
+identify logic monocultures before the Forge fires. No hardlocks applied.
+**Advisory HUD:** Raw Pros/Cons briefing for every roster move. Warnings only.
+**[RIP] Ludicrous Speed:** Rapid Innovation Protocol for massive surges (10+ 
+nodes) to shatter technical blocks through overwhelming adversarial pressure.
 ---
-
-## 4. Standard Audit Parameters (SAP) v1.0 [HYBRID]
-**Directive:** "Objective: Logic Hardening through Destruction. No fluff. Zero trust. Hardware-verified for Moto G/Termux. Provide raw JSON followed by a Clean Markdown Brief."
-
-```json
-{
-  "finding": "Description of the logic flaw.",
-  "severity": 1-10,
-  "rationale": "Hardware/Logic mechanism of failure.",
-  "patch": "Specific technical fix.",
-  "test_case": "Executable pseudo-code or formal assertion."
-}
-## 5. The Synthesis Equation
-
+## [4] TELEMETRY & MEMORY GOVERNANCE
+**STL Hub:** Stateless Telemetry Layer. External hub tracking token saturation. 
+Pings the PSC only at user-defined thresholds (e.g., 70% Saturation).
+**PPR (The Vault):** Cold storage for "Full Rap Sheets." Dual-format (.json/.md).
+**Flashlight Cycles:** User-defined intervals (Audit Count/Token %) trigger:
+- **Soft Reset (Legacy):** Snapshot Axioms -> Nuke Fat -> Inject Muscle.
+- **Hard Reset (Amnesia):** 100% Context purge for "Fresh Eyes" auditing.
+**Retention Toggles:** FIFO (First-In, First-Out), Manual Flush, or Full Archive.
+---
+## [5] THE WORKSHOP (PHASE 3)
+**Strategic Brief:** PSC indexes findings into Gold, Trash, and Glitch.
+**Conflict Matrix:** PSC flags "Logic Deadlocks" where FANs beef on patches.
+**Institutional Memory:** The PSC acts as a Stateful Steward—holding the 
+Soul/Axioms while referencing the Vault for historical deep-dives.
+---
+## [6] THE SYNTHESIS EQUATION
 $$L_{h} = \Phi \left( S_{psc}, \bigcup_{i \in R} C(FAN_{i}, H_{i}) \right)$$
-
-**Where:**
-
-* **$\bigcup$**: The Union of all adversarial critiques (The Collective Pile).
-* **$S_{psc}$**: The current project state maintained by the Partner-in-State.
-* **$\Phi$**: The Human Volition (The Architect's Final Decision).
-
+**$\bigcup$**: The Union of all Adversarial Critiques (The Collective Pile).
+**$S_{psc}$**: The current Hardened State maintained by the Partner-in-State.
+**$\Phi$**: The Human Volition (The Architect's Final Decision).
 ---
-
-## 6. Case Study: The Guardian Angel Protocol (GAP)
-
-* **Proof of Concept:** Developed on a mobile terminal (Dimensity 6300) over 18 hours.
-* **Validation:** 23 recursive cycles proving the efficacy of adversarial synthesis.
-
+## [7] OPERATIONAL DISCRETION & INNOVATION
+TVP is designed for rapid iteration without "Nanny-State" hardlocks. 
+The operator has the freedom to ignore warnings, bypass diversity metrics, 
+and utilize the Forge as a customized think-tank for breakthrough innovation.
 ---
-
-## 7. Intellectual Property & Terms of Use
-
+## [8] SAP v1.0 SCHEMA SPEC
+Every audit payload contains: {Finding, Severity 1-10, Rationale, Patch, Test_Case}.
+All test cases are hardware-verified for Moto G/Termux compatibility.
+---
+## [9] CASE STUDY: GAP (2026)
+**Proof of Concept:** Developed on Dimensity 6300 mobile terminal (18 hours).
+**Validation:** 23 recursive cycles proving adversarial synthesis efficacy.
+---
+## [10] IP & TERMS OF USE
 **COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH (LEX-COL). ALL RIGHTS RESERVED.**
-
-This methodology and framework is the intellectual property of Alexander Colclough. Unauthorized commercial use, redistribution, or derivation is strictly prohibited.
-
+Unauthorized commercial use, redistribution, or derivation is strictly prohibited.
 **BORN ON THE GLASS. FORGED IN THE FORGE. // F SKYNET.**
