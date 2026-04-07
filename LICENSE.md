@@ -12,7 +12,7 @@ This is a **PROPRIETARY** license. Permission is hereby granted to view, audit, 
 
 * **Commercial Integration:** Utilizing TVC logic, workflows, or the Synthesis Equation in any paid software, API, or service.
 * **Automated Exploitation:** Using this methodology to train or fine-tune Large Language Models (LLMs) for public or commercial distribution.
-* **Plagiarism/Rebranding:** Distributing the methodology under a different name or removing the "Lex-Col" attribution.
+* **Plagiarism/Rebranding:** Distributing the methodology under a different name or removing the "Alexander Colclough" attribution.
 * **Derivative Works:** Creating public frameworks or "wrappers" based on the TVC architecture.
 
 ## 3. NO IMPLIED GRANT
