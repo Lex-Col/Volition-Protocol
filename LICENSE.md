@@ -5,7 +5,7 @@
 ---
 
 ## 1. OWNERSHIP & SCOPE
-The "The Volition Coalition" (TVC) v0.1 (Concept/Alpha), including but not limited to the **Multi-Agent Context-Sharded Consensus (MACSC)** methodology, the **Synthesis Equation (Phi)**, **Axiom Pinning**, the **Waterfall Initiation Protocol**, the **Scrap Yard (Audit Lobby)**, and the **Cloud-Hybrid Vault (PPR)**, is the exclusive intellectual property of Alexander Colclough. This protection extends to all architectural diagrams, logic workflows, and telemetry parameters described in the accompanying documentation.
+The "The Volition Coalition" (TVC) v0.1 (Concept/Alpha), including but not limited to the **Multi-Agent Context-Sharded Consensus (MACSC)** methodology, the **Synthesis Equation (Lh)**, **Axiom Pinning**, the **PSC (Partner-in-State) "Partner-in-Crime" Protocol**, the **Continuity Anchor**, the **Tactical Translator**, the **Waterfall Initiation Protocol**, the **Scrap Yard (Audit Lobby)**, and the **Cloud-Hybrid Vault (PPR)**, is the exclusive intellectual property of Alexander Colclough. This protection extends to all architectural diagrams, logic workflows, and telemetry parameters described in the accompanying documentation.
 
 ## 2. RESTRICTIONS: NOT OPEN SOURCE
 This is a **PROPRIETARY** license. Permission is hereby granted to view, audit, and reference the source documentation for **educational, personal, and peer-review purposes only**. Any other use is strictly prohibited without a separate commercial agreement, including:
