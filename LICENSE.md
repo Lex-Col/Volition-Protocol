@@ -5,7 +5,7 @@
 ---
 
 ## 1. OWNERSHIP & SCOPE
-The "The Volition Coalition" (TVC) v0.1 (Concept/Alpha), including but not limited to the **Multi-Agent Context-Sharded Consensus (MACSC)** methodology, the **Synthesis Equation (Lh)**, **Axiom Pinning**, the **PSC (Partner-in-State) "Partner-in-Crime" Protocol**, the **Continuity Anchor**, the **Tactical Translator**, the **Waterfall Initiation Protocol**, the **Scrap Yard (Audit Lobby)**, and the **Cloud-Hybrid Vault (PPR)**, is the exclusive intellectual property of Alexander Colclough. This protection extends to all architectural diagrams, logic workflows, and telemetry parameters described in the accompanying documentation.
+The "The Volition Coalition" (TVC) v0.1 (Concept/Alpha), including but not limited to the **Multi-Agent Context-Sharded Consensus (MACSC)** methodology, the **Synthesis Equation (Lh)**, **Axiom Pinning**, the **PSC (Partner-in-State) "Partner-in-Crime" Protocol**, the **Continuity Anchor**, the **Tactical Translator**, the **Waterfall Initiation Protocol**, the **Scrap Yard (Audit Lobby)**, and the **Cloud-Hybrid Vault (PPR)**, is the exclusive intellectual property of Alexander Colclough. This protection extends to all architectural diagrams, logic workflows, telemetry parameters, and **any and all derivative applications or conceptual evolutions** based on this work.
 
 ## 2. RESTRICTIONS: NOT OPEN SOURCE
 This is a **PROPRIETARY** license. Permission is hereby granted to view, audit, and reference the source documentation for **educational, personal, and peer-review purposes only**. Any other use is strictly prohibited without a separate commercial agreement, including:
@@ -13,7 +13,7 @@ This is a **PROPRIETARY** license. Permission is hereby granted to view, audit, 
 * **Commercial Integration:** Utilizing TVC logic, workflows, or the Synthesis Equation in any paid software, API, or service.
 * **Automated Exploitation:** Using this methodology to train or fine-tune Large Language Models (LLMs) for public or commercial distribution.
 * **Plagiarism/Rebranding:** Distributing the methodology under a different name or removing the "Alexander Colclough" attribution.
-* **Derivative Works:** Creating public frameworks or "wrappers" based on the TVC architecture.
+* **Derivative Works:** Creating, distributing, or utilizing **any and all derivative works**, frameworks, "wrappers," or modified logic branches based on the TVC architecture and its core components.
 
 ## 3. NO IMPLIED GRANT
 Viewing this documentation does **NOT** grant a license to any patents, trademarks, or copyrights held by Alexander Colclough. Implementation of The Volition Coalition in a production environment, commercial product, or functional enterprise application requires explicit, written authorization and a negotiated commercial license.
