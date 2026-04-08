@@ -2,7 +2,7 @@
 
 **ARCHITECT:** Alexander Colclough  
 **STATUS:** PROPRIETARY ALPHA | IMMUTABLE BASELINE  
-**DATE:** April 8, 2026  
+**DATE:** April 8, 2026 (Revised) 
 
 ---
 
