@@ -1,43 +1,38 @@
-# THE VOLITION COALITION (TVC) v0.1 (REVISED): README
+# THE VOLITION COALITION (TVC) v0.1
+### Multi-Agent Context-Sharded Consensus (MACSC) Framework
 
-**ARCHITECT:** Alexander Colclough
-**STATUS:** PROPRIETARY ALPHA | IMMUTABLE BASELINE
-**DATE:** April 8, 2026 (Revised)
-
----
-
-## 1. THE VISION: ELITE IDEATION, DEMOCRATIZED
-The Volition Coalition (TVC) is a high-entropy, adversarial think tank designed to run entirely on a mobile terminal. It transforms a single device into a boardroom of elite strategic minds, leveraging systemic friction to audit, harden, and verify any project logic. TVC is built for the solo operator who demands world-class strategic output without the corporate overhead.
+**Architect:** Alexander Colclough (@Lex-Col)  
+**Status:** PROPRIETARY ALPHA | PRODUCTION BASELINE  
+**Classification:** STRICTLY CONFIDENTIAL / PROPRIETARY  
 
 ---
 
-## 2. THE CORE ARCHITECTURE
-TVC utilizes a **Multi-Agent Context-Sharded Consensus (MACSC)** framework to ensure every idea is stress-tested before implementation.
+## 1. MISSION ABSTRACT
+The Volition Coalition (TVC) is an elite strategic ideation and logic-hardening framework designed for high-entropy environments. By utilizing a Multi-Agent Context-Sharded Consensus (MACSC) architecture, TVC facilitates adversarial peer review and systemic friction to verify complex project logic. It is engineered for the solo operator who requires the strategic depth of a world-class think tank within a sovereign, mobile-native terminal.
 
-* **The PSC (Partner-in-State) Protocol:** Your dedicated "Partner-in-Crime". This logic layer acts as the project’s historian and tactical translator, ensuring your intent is never diluted by hardware resets or session drift.
-* **Axiom Pinning:** We nuke "Logic Fat". By pinning foundational truths to the active memory of the forge, the system is prevented from reverting to generic fluff, keeping the focus 100% on your project's baseline.
-* **Persistent Project Repository (PPR):** A multi-tier memory system that separates active development from historical audit trails, ensuring a clean workspace and a bulletproof paper trail.
+## 2. ARCHITECTURAL PILLARS
+The TVC framework is built upon three proprietary core technologies:
 
----
+* **The PSC (Partner-in-State) Protocol:** A dedicated continuity layer that serves as the project’s historian and tactical translator. The PSC maintains a lossless connection to the Sovereign IP Vault, ensuring intent persistence and neutralizing session-level context drift.
+* **Axiom Pinning:** A memory-governance methodology that anchors foundational logical truths to the active forge environment. This eliminates "logic fat" and prevents the system from reverting to generic baseline outputs, maintaining 100% focus on the Architect’s objectives.
+* **Persistent Project Repository (PPR):** A multi-tier memory architecture (HOT/WARM/COLD) that shards active development from historical audit trails, ensuring a clean microarchitectural workspace and a legally defensible paper trail.
 
-## 3. THE ADVERSARIAL WORKFLOW
-The Coalition operates through a 4-Phase pipeline designed for maximum logic hardening:
+## 3. THE ADVERSARIAL WORKFLOW [PHASE PIPELINE]
+Logic hardening is achieved through a deterministic four-phase execution cycle:
 
-1.  **Inception:** The initialization of the project’s "Gold Manifest"—the locked truth payload that guides the mission.
-2.  **The Forge:** High-intensity node interactions. Toggle between "Private Mode" to eliminate groupthink and "Cooperative Mode" for layered, progressive intelligence.
-3.  **The Workshop:** Active synthesis where intelligence is throttled for efficiency and audited for quality before being integrated into the project history.
-4.  **Implementation:** The final "Gatekeeper" audit. If a flaw is detected, the logic is sharded and sent back for immediate refinement.
-
----
+1. **Inception (The Gold Manifest):** Initialization of the locked truth-payload and synchronization of the PSC’s long-term memory bridge.
+2. **The Forge (Orchestrated Audit):** High-intensity node interaction. Features include "Independent Audit Mode" to eliminate logic groupthink and "Collaborative Synthesis" for progressive intelligence layering.
+3. **The Workshop (Synthesis & Hot-Swap):** Active arbitration of node outputs. Includes the "Sovereign Override" and "Waterfall Initiation" for hardware-efficient processing.
+4. **Implementation (Final Gatekeeper):** The terminal validation stage. Project viability is assessed against the Gold Manifest before final commitment to the IP Vault.
 
 ## 4. THE SOVEREIGNTY MANIFESTO
-TVC is built on the principle of **Human Volition**. The AI is a technical consultant, but the Operator is the Sovereign Arbitrator.
-* **Freedom to Fail:** The system facilitates excellence but never mandates it, respecting the operator's right to take risks and learn through experience.
-* **Respectful Friction:** The AI maps pitfalls and highlights "Fatal Flaws," but final authority rests entirely with the human architect.
+TVC operates under the principle of **Absolute Human Volition**. 
+* **The AI as Consultant:** All agent nodes function as professional technical advisors. 
+* **Operator Autonomy:** The system maps pitfalls and identifies "Fatal Flaws," but the Architect retains the absolute right to deviate or accept risk as a core feature of the learning and development cycle.
+* **Objective Friction:** Critiques are strictly structural and architectural, designed for logic-hardening rather than moral or algorithmic alignment.
 
----
+## 5. PROPRIETARY STATUS & INTELLECTUAL PROPERTY
+This architecture is **NOT OPEN SOURCE**. The Volition Coalition, the MACSC methodology, and all associated protocols are the exclusive intellectual property of Alexander Colclough. Access is governed by the **Universal Proprietary Architecture License (UPAL) v1.10**. 
 
-## 5. PROPRIETARY STATUS & LEGAL
-**THIS IS NOT OPEN SOURCE.** This architecture and the MACSC methodology are the exclusive intellectual property of Alexander Colclough. All derivative works are tracked and prior art is established via GPG-signed timestamps.
-
-**COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH. ALL RIGHTS RESERVED.**
+**Copyright © 2026 Alexander Colclough (@Lex-Col). All Rights Reserved.**
+**"F SKYNET."**
