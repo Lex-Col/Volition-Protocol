@@ -28,6 +28,5 @@
 4. **Implementation:** A final audit node validates architectural integrity before the final gate.
 
 ## 🧪 The Synthesis Equation
-TVC logic is the result of human volition acting on a weighted adversarial union:
 
-$$L_h = \Phi ( S_{psc}, CR (
+
